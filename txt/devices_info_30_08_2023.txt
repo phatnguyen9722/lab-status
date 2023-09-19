@@ -1,0 +1,35 @@
+Lab Name: ott4_gvm | Release: R21 | Health Status:        GEO 0 ms,                                                                           Filesystem threshold Alarm,                     0            Total 3 alarms       
+
+Lab Name: bw13sst | Release: R20 | Health Status:        GEO 2 ms,                                                                                               0            Total 0 alarms       
+
+Lab Name: ott4_sst | Release: R20 | Health Status:        GEO 0 ms,                                                                           Filesystem threshold Alarm,                     0            Total 3 alarms       
+
+Lab Name: bw13gvm | Release: R20 | Health Status:  vsnnc16en      GEO 0 ms,              Latest REx_test FAILED                                                                                 0            Total 5 alarms       
+
+Lab Name: bw3 | Release: R21 | Health Status:  xsnn17cs      GEO 0 ms,           Application check FAILED  Partial patch detected,                                                               Filesystem threshold Alarm,                     0            Total 10 alarms 7    new.   
+
+Lab Name: ott50 | Release: R22 | Health Status:  xsnnc18ds      GEO 0 ms,           Application check FAILED                                 selinux enabled,                                                     0            Total 0 alarms   Total PIDs increased abnormally (+374 PIDs)    
+
+Lab Name: g44-a | Release: R22 | Health Status:  vsnn18ds      GEO 0 ms,     interfaces check FAILED,                                       selinux enabled,   AIDE enabled,     Mate not responding via BP Alarm,   MP not responding Alarm,                        Routing failure Alarm,                      0            Total 97 alarms     SLA Monitoring configuration is not exist,  
+
+Lab Name: g45-a | Release: R20 | Health Status:  vsnn16en      GEO 0 ms,              Latest REx_test FAILED                                                          Backup failure,          sst000_GUI is down,               0            Total 5 alarms   Total PIDs increased abnormally (+572 PIDs)  SLA Monitoring is disabled,  
+
+Lab Name: sb112 | Release: R17 | Health Status:        GEO 0 ms,              Latest REx_test FAILED                                                                                 0            Total 3 alarms       
+
+Lab Name: bw12sst | Release: R21 | Health Status:        GEO 0 ms,                                                                                               0            Total 0 alarms       
+
+Lab Name: ott60sst | Release: R21 | Health Status:        GEO 0 ms,                                                                                               0            Total 0 alarms       
+
+Lab Name: vp101 | Release: R21 | Health Status:  vsnwc17cs                                                                                                      0            Total 1 alarms       
+
+Lab Name: bw11sst | Release: R20 | Health Status:        GEO 0 ms,                                            selinux enabled,                                                     0            Total 1 alarms       
+
+Lab Name: vp102-a | Release: R20 | Health Status:  vsnn16en      GEO 0 ms,                                            selinux enabled,                              Backup failure,                        0            Total 14 alarms       
+
+Lab Name: bw11gvm | Release: R20 | Health Status:  vsnn16en      GEO 0 ms,              Latest REx_test FAILED                              selinux enabled,   AIDE enabled,                                                   0            Total 5 alarms       
+
+Lab Name: bw12gvm | Release: R21 | Health Status:  vsnn17cs      GEO 0 ms,                                                                                               0            Total 41 alarms       
+
+Lab Name: sb116 | Release: R19 | Health Status:        GEO 0 ms,                                                                                               3  Permission issue detected           Total 0 alarms       
+
+Lab Name: vp106 | Release: R19 | Health Status:  vsnw15ei                      1  nfs not responding log,                                                Hight CPU usage:  dpvi-task2 99.21%,                              0            Total 0 alarms   Total PIDs increased abnormally (+384 PIDs)  

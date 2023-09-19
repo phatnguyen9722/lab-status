@@ -1,0 +1,27 @@
+{
+  "date": [
+    { "label": "Last 30 days", "value": "last30" },
+    { "label": "Last 7 days", "value": "last7" }
+  ],
+  "lab-name": [
+    "bw11gvm",
+    "bw11sst",
+    "bw12gvm",
+    "bw12sst",
+    "bw13gvm",
+    "bw13sst",
+    "bw3",
+    "g44-a",
+    "g45-a",
+    "ott29",
+    "ott4_gvm",
+    "ott4_sst",
+    "ott60sst",
+    "sb116",
+    "sb112",
+    "vp101",
+    "vp102-a",
+    "vp106"
+  ],
+  "options": ["R17", "R18", "R19", "R20", "R21", "R22", "R23"]
+}

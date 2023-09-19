@@ -1,0 +1,23 @@
+.intro {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0.5rem;
+}
+
+.intro h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.select-area {
+    /* padding: 1rem; */
+}
+
+.data-items {
+    display: flex;
+    flex-direction: row;
+}
+
+.data-filter {
+    padding-right: 3rem;
+    padding-bottom: 1rem;
+}
